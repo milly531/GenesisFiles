@@ -1,0 +1,47 @@
+[
+  {
+    "RoomId": 2,
+    "Name": "RecCenterUGC",
+    "Description": "This RecCenter is all yours!",
+    "CreatorPlayerId": 1,
+    "ImageName": "22eefa3219f046fd9e2090814650ede3",
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsAGRoom": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true
+  },
+  {
+    "RoomId": 13,
+    "Name": "GoldenTrophyUGC",
+    "Description": "I cant come up with a funny description for this one",
+    "CreatorPlayerId": 1,
+    "ImageName": "38e9d0d4eff94556a0b106508249dcf9",
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsAGRoom": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true
+  },
+    {
+    "RoomId": 27,
+    "Name": "QuestForDraculaUGC",
+    "Description": "shoot evil skeletons in this beta crescendo(but with the makerpen)",
+    "CreatorPlayerId": 1,
+    "ImageName": "d0df003353914adfaecdd23f428208b6",
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsAGRoom": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true
+  }
+]
