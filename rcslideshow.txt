@@ -1,0 +1,29 @@
+{
+  "Images": [
+    {
+      "SavedImageId": 1,
+      "ImageName": "8adh1imk317gt9ibonprmexek.jpg",
+      "Username": "RitzDx",
+      "RoomName": "RecCenter"
+    },
+    {
+      "SavedImageId": 2,
+      "ImageName": "1k1nfdszxgi2qrusgkcznz59f.jpg",
+      "Username": "HeavyTF2",
+      "RoomName": "SandvichEatingContest"
+    },
+    {
+      "SavedImageId": 3,
+      "ImageName": "2r7kuv6oszr6872lcbaoc0g60.jpg",
+      "Username": "TheDummyMurderer",
+      "RoomName": "DormRoom"
+    },
+    {
+      "SavedImageId": 4,
+      "ImageName": "ca06b5ff45eb4835bca6a33f62ef8885.jpg",
+      "Username": "KendrickLamar",
+      "RoomName": "MurderDummySimulator"
+    }
+  ],
+  "ValidTill": "2026-06-09T19:06:44.927Z"
+}
